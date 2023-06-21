@@ -3,3 +3,5 @@ NO arquivo global.json se inclui a versão do dot net que será trabalhada no pr
 Ver comando para definir qual versão do dotnet será utilizado;
 "dotnet run" comando para executar a aplicação;
 "donet watch run"
+
+teste do git
