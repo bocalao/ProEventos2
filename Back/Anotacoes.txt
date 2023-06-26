@@ -1,5 +1,13 @@
-NO arquivo global.json se inclui a versão do dot net que será trabalhada no projeto;
-É possível criar ele a partir de um comando terminal "dotnet new globaljson";
-Ver comando para definir qual versão do dotnet será utilizado;
-"dotnet run" ou "donet watch run" comando para executar a aplicação;
+Observações:
+    No arquivo global.json se inclui a versão do dot net que será trabalhada no projeto;
+    É possível criar ele a partir de um comando terminal "dotnet new globaljson";
+    Ver comando para definir qual versão do dotnet será utilizado;
+    "dotnet run" ou "donet watch run" comando para executar a aplicação;
+
+Criando projeto no VS Code:
+    - A pasta onde o projeto será criado deve ser arrastado para dentro do VSCode;
+    - Como o projeto é fullstack, deve se criar via VSCode a pasta Back e Front dentro da pasta do projeto;
+    - Dentro do Back, cria se a pasta src, que é onde ficarão os projetos C# dot net;
+    - 
+
 
