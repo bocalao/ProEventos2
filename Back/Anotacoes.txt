@@ -1,7 +1,5 @@
 NO arquivo global.json se inclui a versão do dot net que será trabalhada no projeto;
 É possível criar ele a partir de um comando terminal "dotnet new globaljson";
 Ver comando para definir qual versão do dotnet será utilizado;
-"dotnet run" comando para executar a aplicação;
-"donet watch run"
+"dotnet run" ou "donet watch run" comando para executar a aplicação;
 
-teste do git
